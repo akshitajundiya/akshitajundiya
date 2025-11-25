@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **Android apps, Web projects, and UI/UX based products**
 - 🤔 I’m looking for help with **optimizing large DSA problems & backend scaling**
 - 💬 Ask me about **Android, Java, Kotlin, HTML, CSS, JavaScript, Figma, MySQL**
-- 📫 How to reach me: **akshitajundiyabusiness@gmail.com**
+- 📫 How to reach me: **akshitajundiya9@gmail.com**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: ...
 
