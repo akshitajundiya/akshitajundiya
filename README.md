@@ -1,4 +1,4 @@
-# Hi there, I'm Akshita 👋
+# Hi , I'm Akshita!!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=7F3FBF&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Systems+Builder;Full+Stack+Developer;Competitive+Programmer;IIIT+Nagpur" />
@@ -12,7 +12,7 @@
 
 ---
 
-# 🚀 About Me
+# ✨ About Me
 
 🎓 B.Tech CSE Student at IIIT Nagpur (CGPA: 8.8)
 
