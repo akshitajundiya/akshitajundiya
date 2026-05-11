@@ -1,14 +1,18 @@
 # Hi there, I'm Akshita 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=7F3FBF&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Systems+Builder;Full+Stack+Developer;Competitive+Programmer;IIIT+Nagpur" />
+</p>
+
 <h3 align="center">Software Engineer | AI Systems Builder | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshitajundiya&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=akshitajundiya&label=Profile%20views&color=blueviolet&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 B.Tech CSE Student at IIIT Nagpur (CGPA: 8.8)
 
@@ -25,7 +29,7 @@
 
 ---
 
-## 🔭 Currently Working On
+# 🔭 Currently Working On
 
 - 🤖 LLM-powered intelligent retrieval systems
 - 📱 Android productivity applications with Firebase integration
@@ -179,13 +183,17 @@ Python • NumPy • Pandas • Scikit-learn
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshitajundiya&show_icons=true&theme=tokyonight" height="180em"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akshitajundiya&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitajundiya&layout=compact&theme=tokyonight" height="180em"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitajundiya&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=akshitajundiya&theme=tokyonight"/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=akshitajundiya&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akshitajundiya&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -193,6 +201,7 @@ Python • NumPy • Pandas • Scikit-learn
 # 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/akshita-m-a80b45290/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
 </a>
@@ -200,6 +209,7 @@ Python • NumPy • Pandas • Scikit-learn
 <a href="mailto:akshitajundiya9@gmail.com">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40" />
 </a>
+
 </p>
 
 ---
