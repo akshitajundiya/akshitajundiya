@@ -14,6 +14,18 @@
 
 <div align="center">
 
+# 📖 Overview & Repositories
+
+| 📂 Overview | 💻 Repositories | 🚀 Projects | ⭐ Stars |
+|---|---|---|---|
+| Building scalable systems | AI + Full Stack Projects | Real-world engineering apps | Continuously growing |
+
+</div>
+
+---
+
+<div align="center">
+
 ## ⚡ Software Engineer | AI Systems Builder | Full Stack Developer
 
 </div>
@@ -108,8 +120,6 @@ Kotlin • Firebase • Android Studio • XML
 
 # ⌘ Tech Stack
 
-<div align="center">
-
 ### Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -142,20 +152,6 @@ Kotlin • Firebase • Android Studio • XML
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-# ☄️ GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=akshitajundiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitajundiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7" />
-
-</div>
 
 ---
 
